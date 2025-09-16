@@ -18,3 +18,6 @@ Go to terminal in vscode and type:
 # To run code
 
 npx nodemon index.js
+
+# To Start the Server
+node app.js

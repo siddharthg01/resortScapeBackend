@@ -1,0 +1,20 @@
+{
+  "name": "resortscapebackend",
+  "version": "1.0.0",
+  "description": "This is a simple **Express.js** project.  \r Express.js is a fast, unopinionated, and minimalist web framework for Node.js that makes it easy to build APIs and web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthg01/resortScapeBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddharthg01/resortScapeBackend/issues"
+  },
+  "homepage": "https://github.com/siddharthg01/resortScapeBackend#readme"
+}
